@@ -1,9 +1,9 @@
 ## Olá mundo, aqui é o Matheus, sejam bem vindos! 🤘🤘🤘
 
 <div>
-  <a href="https://github.com/msantosf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=Github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/matheus-dos-santos-feo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/mat_santos93/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/msantosf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-dos-santos-feo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mat_santos93/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ## Um pouco sobre mim 
